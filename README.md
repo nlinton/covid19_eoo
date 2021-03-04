@@ -16,9 +16,9 @@ This study has been accepted for publication by the International Journal of Inf
 
 ### Scripts
 
-[A. Analysis in R]()
+[A. Analysis in R](scripts\A.eoo_calculating_the_probabilities.ipynb)
 
-[B. Visualization of the results]()
+[B. Visualization of the results](scripts\A.eoo_figure1.ipynb)
 
 ---
 
