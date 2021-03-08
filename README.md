@@ -16,9 +16,9 @@ This study has been accepted for publication by the International Journal of Inf
 
 ### Scripts
 
-[A. Analysis in R](https://nbviewer.jupyter.org/github/nlinton/blob/master/scripts/A.eoo_calculating_the_probabilities.ipynb)
+[A. Analysis in R and CmdStan](https://nbviewer.jupyter.org/github/nlinton/covid19_eoo/tree/master/scripts/A.eoo_calculating_the_probabilities.ipynb)
 
-[B. Visualization of the results](https://nbviewer.jupyter.org/github/nlinton/blob/master/scripts/A.eoo_figure1.ipynb)
+[B. Visualization of the results](https://nbviewer.jupyter.org/github/nlinton/covid19_eoo/tree/master/scripts/A.eoo_figure1.ipynb)
 
 ---
 
