@@ -2,7 +2,7 @@
 
 This repository contains supplementary materials for the article "Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan"
 
-This study has been accepted for publication by the International Journal of Infectious Diseases (IJID).
+This research has been accepted for publication by the International Journal of Infectious Diseases (IJID).
 
 ---
 
@@ -20,6 +20,12 @@ This study has been accepted for publication by the International Journal of Inf
 
 [B. Visualization of the results](https://nbviewer.jupyter.org/github/nlinton/covid19_eoo/tree/master/scripts/A.eoo_figure1.ipynb)
 
+### Core software and packages
+* R 4.0.4
+* CmdStan 2.26.0
+* cmdstanr 0.3.0
+
+
 ---
 
-Coded by Natalie M. Linton and Andrei R. Akhmetzhanov using R 4.0.4 and CmdStan 2.26.0 with the package cmdstanr, 2021.
+Coded by [Natalie M. Linton](https://github.com/nlinton/) and [Andrei R. Akhmetzhanov](https://github.com/aakhmetz/)
