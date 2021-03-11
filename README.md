@@ -26,6 +26,6 @@ Published in IJID: https://www.sciencedirect.com/science/article/pii/S1201971221
 ## Authors
 Name|Twitter|Github|
 ---|---|---|
-Natalie M. Linton||[nlinton](https://github.com/nlinton/)
-Andrei R. Akhmetzhanov|@aakhmetz|[aakhmetz](https://github.com/aakhmetz/)
-Hiroshi Nishiura|@nishiurah||
+Natalie M. Linton|[@nlinton_epi](https://twitter.com/nlinton_epi)|[nlinton](https://github.com/nlinton/)
+Andrei R. Akhmetzhanov|[@aakhmetz](https://twitter.com/aakhmetz)|[aakhmetz](https://github.com/aakhmetz/)
+Hiroshi Nishiura|[@nishiurah](https://twitter.com/nishiurah/)||
