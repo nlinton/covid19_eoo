@@ -15,7 +15,7 @@ Published in IJID: https://www.sciencedirect.com/science/article/pii/S1201971221
 
 [A. Analysis in R and CmdStan](https://nbviewer.jupyter.org/github/nlinton/covid19_eoo/tree/master/scripts/A.eoo_calculating_the_probabilities.ipynb)
 
-[B. Visualization of the results](https://nbviewer.jupyter.org/github/nlinton/covid19_eoo/tree/master/scripts/A.eoo_figure1.ipynb)
+[B. Visualization of the results](https://nbviewer.jupyter.org/github/nlinton/covid19_eoo/tree/master/scripts/B.eoo_figure1.ipynb)
 
 ## Core software and packages
 * R 4.0.4
