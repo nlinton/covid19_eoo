@@ -1,6 +1,6 @@
 # Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan
 
-Supporting materials for Natalie M. Linton, Andrei R. Akhmetzhanov, Hiroshi Nishiura. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan, International Journal of Infectious Diseases. 2021, 105: 286-292. (doi:10.1016/j.ijid.2021.02.106)
+Supporting materials for Natalie M. Linton, Andrei R. Akhmetzhanov, Hiroshi Nishiura. Localized end-of-outbreak determination for coronavirus disease 2019 (COVID-19): examples from clusters in Japan, International Journal of Infectious Diseases. 2021, 105: 286-292. [doi:10.1016/j.ijid.2021.02.106](https://www.ijidonline.com/article/S1201-9712(21)00192-2/abstract)
 
 ## Abstract
 <b>Objectives</b> End-of-outbreak declarations are an important component of outbreak response as they indicate that public health and social interventions may be relaxed or lapsed. The present study aimed to assess end-of-outbreak probabilities for clusters of coronavirus disease 2019 (COVID-19) cases during the first wave of the pandemic in Japan.
